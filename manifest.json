@@ -5,5 +5,6 @@
 	"minAppVersion": "0.15.0",
 	"description": "Some sample AI that summarize your diary",
 	"author": "Rayz",
-	"authorUrl": "https://github.com/c9y7ip"
+	"authorUrl": "https://github.com/c9y7ip",
+	"isDesktopOnly": "false"
 }
