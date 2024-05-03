@@ -3,7 +3,7 @@
 	"name": "OpenAI Diary",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
+	"description": "Some sample AI that summarize your diary",
 	"author": "Rayz",
 	"authorUrl": "https://obsidian.md",
 	"fundingUrl": "https://obsidian.md/pricing",
