@@ -91,7 +91,7 @@ export default class OpenAIDiaryPlugin extends Plugin {
 		  
         this.addCommand({
             id: "Load OpenAI Diary",
-            name: "Load OpenAI Diary",
+            name: "Diary wrap up",
             editorCallback: async (editor: Editor) => {
                 const user_input = editor.getValue()
 
